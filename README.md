@@ -180,9 +180,3 @@ The limited performance is attributed to several compounding factors:
 6. Jiang et al. "3D convolutional neural networks for lung nodule classification." *Journal of Healthcare Engineering*, 2019.
 7. Nibali et al. "Pulmonary nodule classification with deep convolutional neural networks." *International Workshop on Pulmonary Image Analysis*, Springer, 2017.
 8. NLST Research Team. "Reduced lung-cancer mortality with low-dose computed tomographic screening." *New England Journal of Medicine*, 365(5), 2011.
-
----
-
-## License
-
-This project was produced as a Bachelor Thesis at the University of Science and Technology of Hanoi (USTH). Please contact the author or supervisors before reusing any part of this work.
